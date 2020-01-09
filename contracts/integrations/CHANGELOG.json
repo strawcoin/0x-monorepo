@@ -1,5 +1,14 @@
 [
     {
+        "version": "2.2.0",
+        "changes": [
+            {
+                "note": "Add various negative assertions for fuzz tests",
+                "pr": 2431
+            }
+        ]
+    },
+    {
         "version": "2.1.0",
         "changes": [
             {
