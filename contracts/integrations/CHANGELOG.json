@@ -1,5 +1,14 @@
 [
     {
+        "version": "2.2.0",
+        "changes": [
+            {
+                "note": "Fuzz tests for `matchOrders` and `matchOrdersWithMaximalFill`.",
+                "pr": 2437
+            }
+        ]
+    },
+    {
         "version": "2.1.0",
         "changes": [
             {
